@@ -74,7 +74,7 @@ const sr = ScrollReveal({
     distance: '60px',
     duration: 2500,
     delay: 400,
-    reset: true
+    reset: false
 })
 
 sr.reveal('.home__data, .footer__content, .footer__logo, .footer__description')
